@@ -1,3 +1,3 @@
-import {shop} from './magaz.js'
+const path = require('node:path')
 
-shop()
+console.log(path.join(__dirname));
