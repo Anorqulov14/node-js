@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "username": "eshmat",
+    "address": "Tashkent",
+    "isMarried": false,
+    "age": 24
+  },
+  {
+    "id": 2,
+    "username": "toshmat",
+    "address": "Samarqand",
+    "isMarried": true,
+    "age": 32
+  }
+]
