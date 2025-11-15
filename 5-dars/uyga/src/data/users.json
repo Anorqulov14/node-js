@@ -1,0 +1,11 @@
+[
+  { "id": 1, 
+    "name": "Uzbekistan", 
+    "code": "UZ" 
+  },
+  
+  { "id": 2,
+    "name": "USA", 
+    "code": "US" 
+  }
+]
