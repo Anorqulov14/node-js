@@ -1,0 +1,17 @@
+{
+  "name": "sinf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "module": "module",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
